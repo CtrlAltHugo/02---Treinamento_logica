@@ -1,1 +1,3 @@
-print("Estudos Back-End")
+# Definição de fn
+
+print(len("Hugo"))
